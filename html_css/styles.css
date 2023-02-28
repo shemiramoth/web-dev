@@ -6,22 +6,33 @@ body{
     background-attachment: scroll;
     background-size: cover;
     border-radius: 20px;
-    border-bottom: dotted blue;
-    border-top: double blue;
-    border-left: solid blue;
-    border-right: dashed blue;
+    border-bottom: dotted rgb(236, 2, 2);
+    border-top: double rgb(255, 0, 0);
+    border-left: solid rgb(255, 0, 0);
+    border-right: dashed rgb(255, 0, 0);
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: brown;
+    background-color: gold;
+}
     
 
-}
+
 p{
     color: rgb(1, 25, 237);
+    background-color: aqua;
 }
 h1{
     color: black;
 }
 #paral2{
-    background-color: aquamarine;
-    
-    
-    
+    background-color: aquamarine;   
 }
+#one{
+    font-family: 'Courier New', Courier, monospace;
+}
+#paral1{
+    background-color: blueviolet;
+}
+    
