@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(234, 230, 230);
+    background-image: url(Images/369911.jpg);
+    background-position:unset;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    border-radius: 20px;
+    border-bottom: dotted blue;
+    border-top: double blue;
+    border-left: solid blue;
+    border-right: dashed blue;
+    
+
+}
+p{
+    color: rgb(1, 25, 237);
+}
+h1{
+    color: black;
+}
+#paral2{
+    background-color: aquamarine;
+    
+    
+    
+}
