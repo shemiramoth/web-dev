@@ -7,9 +7,10 @@
     padding-top: 10px;
     top: 0;
     left: 0;
+    font-size: 20px;
 }
 
-ul{
+.sidebar ul{
     list-style: none;
     margin: 10px;
     padding: 20px;
@@ -22,7 +23,7 @@ font-family:cursive;
 font-size: 16px;
 }
 
-a{
+.sidebar a{
     text-decoration: none;
     color: black;
 }
@@ -39,4 +40,58 @@ a:hover{
     height: 100px;
     border-radius: 50px;
     overflow-y: none;
+}
+
+.my-name{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.introduction{
+    margin-left: 200px;
+}
+
+.contact-me{
+    border: 1px solid red;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.contact-me a{
+    color: white;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 6px;
+    text-decoration: none;
+}
+
+button{
+    text-align: center;
+    margin-left: 300px;
+    background-color: black;
+    color: antiquewhite;
+}
+
+.my-work{
+    margin-left: 200px;
+}
+
+.read-more a {
+    color: white;
+    background-color:black;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+
+.read-more a:hover{
+    color: gold;
+    transition-delay: 100ms;
+}
+
+nav{
+    text-align: center;
 }

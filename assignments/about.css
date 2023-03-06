@@ -1,0 +1,10 @@
+h1{
+    color: lime;
+    padding-left: 600px;
+}
+body{
+    font-size: 16px;
+    padding-left: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkcyan;
+}

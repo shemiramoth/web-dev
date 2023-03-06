@@ -1,0 +1,50 @@
+body{
+    background-color:lightgrey;
+    text-align: center;
+    background-image: url(images/download\ \(3\).jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-div{
+    margin: auto;
+    border: 2px solid cadetblue ;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    width: 1500px;
+    margin-top: 150px;
+}
+
+.Title{
+    font-size: 40px;
+    color: antiquewhite;
+}
+
+.message{
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid gold;
+    height: 500px;
+    width: 1250px;
+}
+
+#subject_input{
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid gold;
+    width: 1250px;
+}
+
+#sign_in_button{
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: antiquewhite;
+    border: 2px solid gold;
+    width: 7.2cm;
+}
