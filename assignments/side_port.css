@@ -44,10 +44,18 @@ h1{
 }
 
 .rounded-image{
-    padding-left: 30px;
+    padding-left: 0px;
     padding-top: 10px;
-    width: 100px;
-    height: 100px;
     border-radius: 50px;
-    overflow-y: none;
+    
 }    
+
+.mtoi{
+    padding-left: 700px;
+    height: 300px;
+}
+
+.jina{
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}

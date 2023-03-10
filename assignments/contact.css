@@ -1,7 +1,6 @@
 body{
-    background-color:lightgrey;
+    background-color:rgb(242, 140, 6);
     text-align: center;
-    background-image: url(images/download\ \(3\).jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,4 +46,9 @@ body{
     color: antiquewhite;
     border: 2px solid gold;
     width: 7.2cm;
+}
+
+.toppy{
+    padding: 30px;
+    color: blue;
 }
