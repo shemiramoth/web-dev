@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(242, 140, 6);
+    background-color:rgb(0, 0, 0);
     text-align: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body{
 
 .Title{
     font-size: 40px;
-    color: antiquewhite;
+    color:lightgray;
 }
 
 .message{
@@ -46,6 +46,7 @@ body{
     color: antiquewhite;
     border: 2px solid gold;
     width: 7.2cm;
+    
 }
 
 .toppy{
